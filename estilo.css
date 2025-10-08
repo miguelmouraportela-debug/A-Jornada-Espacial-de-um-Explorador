@@ -25,6 +25,6 @@ max-width: 90%;
 .passo{
     display: none;
 }
-,.passo.ativo{
+.passo.ativo{
     display: block;
 }
