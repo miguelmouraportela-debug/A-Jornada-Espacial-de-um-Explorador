@@ -6,7 +6,15 @@ color: aliceblue;
 display: flex;
 justify-content: center;
 align-items: center;
+height: 800px;
+margin: 0;
 }
+button{
+    background: red;
+color:black;
+padding: 20px;
+}
+
 
 .img01{
     width: 50%;
