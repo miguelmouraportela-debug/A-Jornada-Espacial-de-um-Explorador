@@ -1,1 +1,2 @@
-alert("homens lindos e gostosos e gulosos")
+const avanca =document.querySelectorAll('.btn-proximo') 
+console.log(avanca)
